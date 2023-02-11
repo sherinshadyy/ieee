@@ -1,0 +1,16 @@
+body {
+    background-color: #c0dcf2;
+}
+button{
+    background: rgb(7, 12, 59);
+    color:white;
+    text-decoration: none;
+    border: 0px solid transparent;
+    font-weight: bold;
+    padding: 19px 30px;
+    border-radius: 90px;
+    transition: .4s;
+}
+form{
+   
+}
